@@ -70,6 +70,11 @@ dns:
   - quic://c.passcloud.xyz:784
   default-nameserver:
   - 202.96.128.86
+tun:
+  enable: true
+  stack: system
+  dns-hijack:
+  - 223.5.5.5
 #dns:
   #enable: true # 是否启用dns false
   #ipv6: false
