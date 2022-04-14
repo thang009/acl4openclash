@@ -67,7 +67,7 @@ dns:
   nameserver:
   - https://1.12.12.12/dns-query
   fallback:
-  - quic://h.iqiq.io:784
+  - quic://c.passcloud.xyz:784
   default-nameserver:
   - 202.96.128.86
   fallback-filter:
