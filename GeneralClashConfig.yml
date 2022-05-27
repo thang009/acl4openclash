@@ -70,9 +70,6 @@ dns:
   - quic://c.passcloud.xyz:784
   default-nameserver:
   - 202.96.128.86
-  fallback-filter:
-    geosite:
-    - gfw 
     
 #dns:
   #enable: true # 是否启用dns false
