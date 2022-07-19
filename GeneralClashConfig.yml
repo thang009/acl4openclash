@@ -69,7 +69,7 @@ dns:
   - https://223.5.5.5/dns-query
   fallback:
   - https://dns.google/dns-query
-  - quic://dns.adguard.com:853
+  - quic://dns.adguard.com:784
   default-nameserver:
   - 202.96.128.86
     
