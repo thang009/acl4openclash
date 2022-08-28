@@ -67,8 +67,8 @@ dns:
   nameserver:
     - https://1.12.12.12/dns-query
   fallback:
-     - https://dns.google/dns-query#🚀 节点选择
-     - https://dns.nextdns.io/11dc11/clash#🚀 节点选择
+    - https://dns.google/dns-query#🚀 节点选择
+    - https://dns.nextdns.io/11dc11/clash#🚀 节点选择
   default-nameserver:
     - 202.96.128.86
   proxy-server-nameserver:
