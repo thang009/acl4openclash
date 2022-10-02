@@ -65,7 +65,7 @@ dns:
   enable: true
   enhanced-mode: redir-host
   nameserver:
-    - https://dns.alidns.com/dns-query#h3=true
+    - https://dns.alidns.com/dns-query
   fallback:
     - https://dns.google/dns-query#🚀 节点选择
   default-nameserver:
