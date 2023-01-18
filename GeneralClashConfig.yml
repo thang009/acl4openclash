@@ -64,14 +64,11 @@ external-controller: '127.0.0.1:9090'
 dns:
   enable: true
   enhanced-mode: redir-host
+  fake-ip-range: 198.18.0.1/16
   nameserver:
-    - https://dns.alidns.com/dns-query
+    - 223.5.5.5
   fallback:
     - https://dns.nextdns.io/11dc11/clash#🚀 节点选择
-  default-nameserver:
-    - 202.96.128.86
-  proxy-server-nameserver:
-    - 202.96.128.86
 #dns:
   #enable: true # 是否启用dns false
   #ipv6: false
