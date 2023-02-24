@@ -63,12 +63,12 @@ external-controller: '127.0.0.1:9090'
 #   'alpha.clash.dev': '::1'
 dns:
   enable: true
-  enhanced-mode: redir-host
+  enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   nameserver:
     - 223.5.5.5
   fallback:
-    - https://dns.nextdns.io/11dc11/clash#🚀 节点选择
+    - https://dns.nextdns.io/11dc11/doh3#h3=true
 #dns:
   #enable: true # 是否启用dns false
   #ipv6: false
