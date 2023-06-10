@@ -68,8 +68,8 @@ dns:
   nameserver:
     - 119.29.29.29
   fallback:
-   # - https://dns.nextdns.io/11dc11/doh3#h3=true
-    - https://dns.nextdns.io/11dc11/clash#🚀 节点选择
+    - https://dns.nextdns.io/11dc11/doh3#h3=true
+   # - https://dns.nextdns.io/11dc11/clash#🚀 节点选择
 #dns:
   #enable: true # 是否启用dns false
   #ipv6: false
