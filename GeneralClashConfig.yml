@@ -65,7 +65,7 @@ dns:
   enable: true
   nameserver:
     - 192.168.0.251
-  fallback:
+  #fallback:
    # - https://dns.nextdns.io/11dc11/doh3#h3=true
    # - https://dns.nextdns.io/11dc11/clash#🚀 节点选择
 #dns:
