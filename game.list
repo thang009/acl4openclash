@@ -5,3 +5,4 @@ SRC-IP-CIDR,192.168.0.132/32
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,blizzard.com
 IP-CIDR,158.115.195.92/32,no-resolve
+IP-CIDR,35.234.60.98,no-resolve
