@@ -1,2 +1,5 @@
 #proxy
 DOMAIN,mask-api.icloud.com
+DOMAIN,probe.icloud.com
+DOMAIN,gateway.icloud.com
+DOMAIN,metrics.icloud.com
